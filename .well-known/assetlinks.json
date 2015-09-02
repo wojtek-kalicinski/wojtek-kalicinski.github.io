@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "me.kalicinski.imagesearch",
+      "sha256_cert_fingerprints":
+      ["74:1E:72:6A:D0:02:E1:1A:ED:47:5B:AC:F8:18:34:36:26:C2:14:F0:E8:38:25:BE:7B:F5:B7:66:36:BF:B1:48"]
+    }
+  }]
