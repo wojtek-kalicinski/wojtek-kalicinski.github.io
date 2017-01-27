@@ -1,9 +1,9 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "me.kalicinski.imagesearch",
-      "sha256_cert_fingerprints":
-      ["74:1E:72:6A:D0:02:E1:1A:ED:47:5B:AC:F8:18:34:36:26:C2:14:F0:E8:38:25:BE:7B:F5:B7:66:36:BF:B1:48"]
-    }
-  }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.recipe_app",
+    "sha256_cert_fingerprints":
+    ["1E:84:9A:48:BA:C9:3F:65:6C:6D:E6:EE:E4:7E:85:0E:FB:A3:F9:E7:C5:A1:1C:E5:F4:EE:F8:71:3D:BD:62:E3"]
+  }
+}]
