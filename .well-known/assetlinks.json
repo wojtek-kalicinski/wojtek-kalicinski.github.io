@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "me.kalicinski.recipes",
     "sha256_cert_fingerprints":
     ["29:62:91:06:6B:C5:FA:7F:65:72:77:4A:54:A4:EF:2E:27:68:89:51:5F:F1:8A:09:45:F6:3B:0F:4A:59:0B:91"]
   }
@@ -18,7 +18,7 @@
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "me.kalicinski.recipes",
     "sha256_cert_fingerprints":
     ["29:62:91:06:6B:C5:FA:7F:65:72:77:4A:54:A4:EF:2E:27:68:89:51:5F:F1:8A:09:45:F6:3B:0F:4A:59:0B:91"]
   }
