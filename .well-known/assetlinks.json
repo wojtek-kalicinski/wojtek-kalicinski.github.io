@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.vincommerce.adayroi",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["9F:00:18:FE:9B:77:F9:89:26:AE:3E:96:6E:C3:75:62:CB:F5:F3:02:E1:B8:87:23:9C:83:7E:21:CD:78:07:2E"]
   }
 }]
