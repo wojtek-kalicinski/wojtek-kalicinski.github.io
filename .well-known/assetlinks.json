@@ -5,5 +5,27 @@
     "package_name": "com.recipe_app",
     "sha256_cert_fingerprints":
     ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.fbdeeplinksample",
+    "sha256_cert_fingerprints":
+    ["BB:0F:10:48:75:75:94:8F:5A:F5:51:38:97:2B:EF:C5:A8:8A:26:F5:CB:11:47:BC:4C:FA:00:65:00:65:BE:C7"]
+  },
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://www.recipe-app.com"
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.fbdeeplinksample",
+    "sha256_cert_fingerprints":
+    ["BB:0F:10:48:75:75:94:8F:5A:F5:51:38:97:2B:EF:C5:A8:8A:26:F5:CB:11:47:BC:4C:FA:00:65:00:65:BE:C7"]
   }
 }]
